@@ -1,0 +1,29 @@
+.searchItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  padding: 4px;
+  padding-right: 15px;
+  padding-left: 0px;
+  cursor: pointer;
+}
+.list {
+  list-style-type: none;
+}
+
+.suggestions {
+  font-size: 18px;
+  color: #475569;
+  font-weight: 500;
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.arrowLogo {
+  width: 25px;
+  padding: 0px;
+}
